@@ -1,0 +1,11 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  a_Simple: a_Simple.html
+  b_Advanced: b_Advanced.html
+last_built: 2024-02-29T06:26Z
+urls:
+  reference: https://docs.ropensci.org/occCite/reference
+  article: https://docs.ropensci.org/occCite/articles
+

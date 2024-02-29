@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ec8c895b7dc2e423e8e8201a8bec3bfc9ad19460",
+    "author": "hannahlowens <hannah.owens@gmail.com>",
+    "time": "2022-08-12 11:58:57",
+    "files": 3,
+    "merge": false,
+    "message": "Fix test to add another column to OccurrenceTable\n"
+  },
+  "repo": "https://github.com/ropensci/occCite",
+  "pkg": "occCite"
+}
