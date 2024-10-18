@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "17bd989ec06863b5691a99ae5c0291da1caecec2",
+    "author": "hannahlowens <hannah.owens@gmail.com>",
+    "time": "2024-10-18 08:05:36",
+    "files": 2,
+    "merge": false,
+    "message": "Update\n"
+  },
+  "repo": "https://github.com/ropensci/occCite",
+  "pkg": "occCite"
+}
