@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "55907bac40101bcba3e9535c58796155f69bed63",
+    "author": "hannahlowens <hannah.owens@gmail.com>",
+    "time": "2026-09-02T08:39:53Z",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 0.6.3.9000\n"
+  },
+  "repo": "https://github.com/ropensci/occCite",
+  "pkg": "occCite",
+  "time": "2026-09-02T11:37:07Z"
+}
